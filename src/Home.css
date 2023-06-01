@@ -1,0 +1,294 @@
+   /* body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #1953b0;/*white;
+  }
+  
+  .App {
+    text-align: right;
+    padding: 20px;
+    background-color: #1953b0;/*white;
+  }
+  
+  .App-header {
+    margin-bottom: 100px;
+  }
+
+  .App-header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+
+  .App-header-logo {
+    width: 150px; /* Define o tamanho desejado para a imagem 
+    position: absolute; /* Posiciona a imagem 
+    top: 20px; /* Define a distância do topo 
+    left: 20px; /* Define a distância da esquerda 
+    border-radius: 24px;
+  }
+
+  .App-header-logo-tivit {
+    width: 150px; /* Define o tamanho desejado para a imagem 
+    
+  }
+  
+  .App-header-div{
+    background-color: #1953b0;/*white;
+    color: black;
+    border-radius: 20px;
+    margin: 5px
+  }
+
+  .App-titulo{
+    border-radius: 20px;
+    font-size: 25px;
+    color: #c7c5c5;
+    text-align: center;
+    margin-left: 350px;
+  }
+
+  .botao-Sobre{
+    margin-left: 70px;
+  }
+  
+  .App-button-download{
+    margin: 5px;
+  }
+  
+  
+  .Spam {
+    color: yellow;
+  }
+  
+  .slick-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    
+    background: linear-gradient(135deg, #02183b, #000000);
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    color: #ffffff;
+    margin-top: 5px;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+  }
+
+  .slick-slide h3 {
+    text-align: center;
+    font-size: 24px;
+    color: #c7c5c5;
+  }
+  
+  .slick-slide p {
+    font-size: 16px;
+    color: #c7c5c5;
+    text-align: left;
+  }
+  
+  footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /* background-color: #300106;#263042; 
+    background-color: #02183b;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+   */
+
+   body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #1953b0;
+  }
+  
+  .App {
+    text-align: right;
+    padding: 20px;
+    background-color: #1953b0;
+    max-width: 100%;
+    mac-height: 100%;
+  }
+  
+  .App-header {
+    margin-bottom: 50px;
+  }
+  
+  .App-header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .App-header-logo {
+    width: 150px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    border-radius: 24px;
+  }
+  
+  .App-header-logo-tivit {
+    width: 150px;
+  }
+  
+  .App-header-div {
+    background-color: #1953b0;
+    color: black;
+    border-radius: 20px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .App-titulo {
+    border-radius: 20px;
+    font-size: 25px;
+    color: #c7c5c5;
+    text-align: center;
+    margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
+    padding: 20px;
+    /* border-radius: 20%;
+    font-size: 25px;
+    color: #c7c5c5;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    padding: 20%; */
+  }
+  
+  .botao-Sobre {
+    margin-left: 70px;
+  }
+  
+  .App-button-download {
+    margin: 5px;
+  }
+  
+  .Spam {
+    color: yellow;
+  }
+  
+  .container {
+    color: #c7c5c5;
+  }
+  
+  .title {
+    /* text-align: center;*/
+    margin-bottom: 20px;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  .subtitle {
+    margin-bottom: 10%;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: justify;
+  }
+  
+  .imagem2 {
+    text-align: center;
+    height: 50%;
+    width: 50%;
+  }
+  
+  .imagem2 img {
+    /* max-width: 100%; */
+    /* height: auto; */
+    height: 100%;
+    width: 100%;
+    margin-bottom: 5%;
+  }
+  
+  .slick-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 300px;
+    height: 200px; */
+    width: 25%;
+    height: 25%;
+    background: linear-gradient(135deg, #02183b, #000000);
+    border-radius: 20px;
+    box-shadow: 0 10px 6px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    color: #ffffff;
+    margin-top: 5px;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    /* width: 300px;
+    height: 200px; */
+  }
+  
+  .slick-slide h3 {
+    text-align: center;
+    font-size: 24px;
+    color: #c7c5c5;
+  }
+  
+  .slick-slide p {
+    font-size: 16px;
+    color: #c7c5c5;
+    text-align: left;
+  }
+  
+  
+  .slider {
+    margin-top: 40px;
+  }
+  
+  .slider .slick-slide {
+    text-align: center;
+  }
+  
+  .slider img {
+    max-width: 25%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .slider h4 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .slider p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+
+  
+  footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #02183b;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
